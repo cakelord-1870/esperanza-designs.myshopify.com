@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://esperanza-designs.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://esperanza-designs.myshopify.com/collections/tarik-ediz.atom"/>
+  <title>Esperanza Designs</title>
+  <updated>2020-01-16T07:45:05-05:00</updated>
+  <author>
+    <name>Esperanza Designs</name>
+  </author>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411163607134</id>
+    <published>2020-01-16T07:45:05-05:00</published>
+    <updated>2020-01-16T07:45:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93953"/>
+    <title>Tarik Ediz 93955</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93955_DAMLA_3.jpg?v=1579178767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411163607134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411161641054</id>
+    <published>2020-01-16T07:42:43-05:00</published>
+    <updated>2020-01-16T07:42:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93951"/>
+    <title>Tarik Ediz 93953</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93953_WILMA_4.jpg?v=1579178667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411161641054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411159674974</id>
+    <published>2020-01-16T07:39:43-05:00</published>
+    <updated>2020-01-16T07:39:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93950"/>
+    <title>Tarik Ediz 93951</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93951_DEEP_10.jpg?v=1579178534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411159674974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411158265950</id>
+    <published>2020-01-16T07:38:05-05:00</published>
+    <updated>2020-01-16T07:38:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93948"/>
+    <title>Tarik Ediz 93950</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93950_FOREST_5.jpg?v=1579178364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411158265950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411157020766</id>
+    <published>2020-01-16T07:35:57-05:00</published>
+    <updated>2020-01-16T07:35:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93947"/>
+    <title>Tarik Ediz 93948</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93948_FELICITY_3_-490_jpg.jpg?v=1579178259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411157020766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411155611742</id>
+    <published>2020-01-16T07:34:06-05:00</published>
+    <updated>2020-01-16T07:34:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93946"/>
+    <title>Tarik Ediz 93947</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93947_CALLA_2_-499_jpg.jpg?v=1579178130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411155611742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411152564318</id>
+    <published>2020-01-16T07:29:17-05:00</published>
+    <updated>2020-01-16T07:29:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93945"/>
+    <title>Tarik Ediz 93946</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93946_BETIE_1__jpg.jpg?v=1579178018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411152564318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411151450206</id>
+    <published>2020-01-16T07:27:54-05:00</published>
+    <updated>2020-01-16T07:27:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93944"/>
+    <title>Tarik Ediz 93945</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93945_SIGNATURE_2.jpg?v=1579177735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411151450206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411150401630</id>
+    <published>2020-01-16T07:25:35-05:00</published>
+    <updated>2020-01-16T07:25:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93943"/>
+    <title>Tarik Ediz 93944</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93944_DORIS_2_-299_jpg.jpg?v=1579177651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411150401630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411147812958</id>
+    <published>2020-01-16T07:21:45-05:00</published>
+    <updated>2020-01-16T07:21:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93942"/>
+    <title>Tarik Ediz 93943</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93943_SYDNEY_2.jpg?v=1579177477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411147812958</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411146698846</id>
+    <published>2020-01-16T07:20:00-05:00</published>
+    <updated>2020-01-16T07:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93941"/>
+    <title>Tarik Ediz 93942</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93942_PIERRE_3.jpg?v=1579177280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411146698846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411145060446</id>
+    <published>2020-01-16T07:17:34-05:00</published>
+    <updated>2020-01-16T07:17:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93940"/>
+    <title>Tarik Ediz 93941</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93941_ALONE_5_-299_jpg.jpg?v=1579177173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411145060446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411143815262</id>
+    <published>2020-01-16T07:15:49-05:00</published>
+    <updated>2020-01-16T07:15:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93939"/>
+    <title>Tarik Ediz 93940</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93940_NIKI_2.jpg?v=1579177030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411143815262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411143290974</id>
+    <published>2020-01-16T07:14:12-05:00</published>
+    <updated>2020-01-16T07:14:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93938"/>
+    <title>Tarik Ediz 93939</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93939_DEAR_5.jpg?v=1579176929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411143290974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411142078558</id>
+    <published>2020-01-16T07:12:37-05:00</published>
+    <updated>2020-01-16T07:12:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93937"/>
+    <title>Tarik Ediz 93938</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93938_ALESIA_2.jpg?v=1579176830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411142078558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411140341854</id>
+    <published>2020-01-16T07:10:11-05:00</published>
+    <updated>2020-01-16T07:10:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93936"/>
+    <title>Tarik Ediz 93937</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93937_VERA_1.jpg?v=1579176716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411140341854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411138211934</id>
+    <published>2020-01-16T07:06:58-05:00</published>
+    <updated>2020-01-16T07:06:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93935"/>
+    <title>Tarik Ediz 93936</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93936_ROMANTICA_1_-599_jpg.jpg?v=1579176573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411138211934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411136278622</id>
+    <published>2020-01-16T07:03:24-05:00</published>
+    <updated>2020-01-16T07:03:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93934"/>
+    <title>Tarik Ediz 93935</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93935_LINA_4__jpg.jpg?v=1579176390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411136278622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411134869598</id>
+    <published>2020-01-16T07:01:17-05:00</published>
+    <updated>2020-01-16T07:01:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93933"/>
+    <title>Tarik Ediz 93934</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93934_DUAL_4.jpg?v=1579176176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411134869598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411131297886</id>
+    <published>2020-01-16T06:56:07-05:00</published>
+    <updated>2020-01-16T06:56:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93932"/>
+    <title>Tarik Ediz 93933</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93933_EZY_2.jpg?v=1579176043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411131297886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411129069662</id>
+    <published>2020-01-16T06:52:53-05:00</published>
+    <updated>2020-01-16T06:52:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93931"/>
+    <title>Tarik Ediz 93932</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93932_MONALIZA_1.jpg?v=1579175718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411129069662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411125530718</id>
+    <published>2020-01-16T06:47:51-05:00</published>
+    <updated>2020-01-16T06:47:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93930"/>
+    <title>Tarik Ediz 93931</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93931_THEDORA_1__jpg.jpg?v=1579175530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411125530718</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411123073118</id>
+    <published>2020-01-16T06:44:32-05:00</published>
+    <updated>2020-01-16T06:44:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93929"/>
+    <title>Tarik Ediz 93930</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93930_DAISY_2.jpg?v=1579175243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411123073118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411121336414</id>
+    <published>2020-01-16T06:41:34-05:00</published>
+    <updated>2020-01-16T06:41:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93928"/>
+    <title>Tarik Ediz 93928</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93928_VEST_2.jpg?v=1579175046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Evening</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411121336414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411119566942</id>
+    <published>2020-01-16T06:38:42-05:00</published>
+    <updated>2020-01-16T06:38:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-93927"/>
+    <title>Tarik Ediz 93927</title>
+    <s:type></s:type>
+    <s:vendor>Tarik Ediz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/93927-RUBY_3.jpg?v=1579174828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tarik Ediz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411119566942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

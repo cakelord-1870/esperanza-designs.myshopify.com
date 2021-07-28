@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://esperanza-designs.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://esperanza-designs.myshopify.com/collections/whites.atom"/>
+  <title>Esperanza Designs</title>
+  <updated>2018-06-09T02:17:38-04:00</updated>
+  <author>
+    <name>Esperanza Designs</name>
+  </author>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307659567198</id>
+    <published>2018-06-09T02:17:38-04:00</published>
+    <updated>2018-06-09T02:17:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/veronika"/>
+    <title>Veronika</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/veronika.jpg?v=1528525152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307659567198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307659305054</id>
+    <published>2018-06-09T02:16:34-04:00</published>
+    <updated>2018-06-09T02:16:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/vanessa"/>
+    <title>Vanessa</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/vanessa-front.jpg?v=1528525050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307659305054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307659141214</id>
+    <published>2018-06-09T02:15:13-04:00</published>
+    <updated>2018-06-09T02:15:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/swan"/>
+    <title>Swan</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/swan.jpg?v=1528524978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307659141214</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307658846302</id>
+    <published>2018-06-09T02:13:26-04:00</published>
+    <updated>2018-06-09T02:13:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/poesia-nude"/>
+    <title>Poesia Nude</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/poesia-nude-front.jpg?v=1528524881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307658846302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307658354782</id>
+    <published>2018-06-09T02:10:34-04:00</published>
+    <updated>2018-06-09T02:10:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/nirvana"/>
+    <title>Nirvana</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/nirvana-back-2.jpg?v=1528524784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307658354782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307657994334</id>
+    <published>2018-06-09T02:09:24-04:00</published>
+    <updated>2018-06-09T02:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/lures"/>
+    <title>Lures</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/lures.jpg?v=1528524631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307657994334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307657896030</id>
+    <published>2018-06-09T02:07:16-04:00</published>
+    <updated>2018-06-09T02:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/lucida"/>
+    <title>Lucida</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/lucida-front.jpg?v=1528524552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307657896030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307657568350</id>
+    <published>2018-06-09T02:05:55-04:00</published>
+    <updated>2018-06-09T02:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/inez"/>
+    <title>Inez</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/ines.jpg?v=1528524430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307657568350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307657207902</id>
+    <published>2018-06-09T02:04:40-04:00</published>
+    <updated>2018-06-09T02:04:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/grazia"/>
+    <title>Grazia</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/grazia.jpg?v=1528524346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307657207902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307656880222</id>
+    <published>2018-06-09T02:02:42-04:00</published>
+    <updated>2018-06-09T02:02:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/grace"/>
+    <title>Grace</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/grace-whole.jpg?v=1528524246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307656880222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307656585310</id>
+    <published>2018-06-09T02:01:32-04:00</published>
+    <updated>2018-06-09T02:01:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/ginna"/>
+    <title>Ginna</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/gonna-front.jpg?v=1528524154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307656585310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307656355934</id>
+    <published>2018-06-09T01:59:51-04:00</published>
+    <updated>2018-06-09T01:59:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/gilda"/>
+    <title>Gilda</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/glida-back.jpg?v=1528524082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307656355934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307656192094</id>
+    <published>2018-06-09T01:58:52-04:00</published>
+    <updated>2018-06-09T01:58:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/glamour"/>
+    <title>Glamour</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/glamour-evening.jpg?v=1528523982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307656192094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307655929950</id>
+    <published>2018-06-09T01:56:36-04:00</published>
+    <updated>2018-06-09T01:56:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/fantasia"/>
+    <title>Fantasia</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/fantasia.jpg?v=1528523919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307655929950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307655536734</id>
+    <published>2018-06-09T01:55:40-04:00</published>
+    <updated>2018-06-09T01:55:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/dana"/>
+    <title>Dana</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/dana.jpg?v=1528523788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307655536734</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307655471198</id>
+    <published>2018-06-09T01:54:12-04:00</published>
+    <updated>2018-06-09T01:54:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/dallas"/>
+    <title>Dallas</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/dallas-back.jpg?v=1528523724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307655471198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307655209054</id>
+    <published>2018-06-09T01:52:05-04:00</published>
+    <updated>2018-06-09T01:52:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/alisia"/>
+    <title>Alisia</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/alisia.jpg?v=1528523636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307655209054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307654684766</id>
+    <published>2018-06-09T01:51:01-04:00</published>
+    <updated>2018-06-09T01:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/rapsodia"/>
+    <title>Rapsodia</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/rapsodia.jpg?v=1528523522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307654684766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307654488158</id>
+    <published>2018-06-09T01:49:42-04:00</published>
+    <updated>2018-06-09T01:49:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/poesia"/>
+    <title>Poesia</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/poesia.jpg?v=1528523432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307654488158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307654258782</id>
+    <published>2018-06-09T01:48:14-04:00</published>
+    <updated>2018-06-09T01:48:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/opera"/>
+    <title>Opera</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/opera_back.jpg?v=1528523363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307654258782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307653931102</id>
+    <published>2018-06-09T01:47:01-04:00</published>
+    <updated>2018-06-09T01:47:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/melodia"/>
+    <title>Melodia</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/melodia.jpg?v=1528523269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307653931102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307653734494</id>
+    <published>2018-06-09T01:45:42-04:00</published>
+    <updated>2018-06-09T01:45:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/gloria"/>
+    <title>Gloria</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/gloria.jpg?v=1528523200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307653734494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307653668958</id>
+    <published>2018-06-09T01:44:34-04:00</published>
+    <updated>2018-06-09T01:44:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/dorotea"/>
+    <title>Dorotea</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/dorotea.jpg?v=1528523127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307653668958</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307653472350</id>
+    <published>2018-06-09T01:43:34-04:00</published>
+    <updated>2018-06-09T01:43:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/classica"/>
+    <title>Classica</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/classica.jpg?v=1528523065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307653472350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1307653111902</id>
+    <published>2018-06-09T01:42:03-04:00</published>
+    <updated>2018-06-09T01:42:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/butterfly"/>
+    <title>Butterfly</title>
+    <s:type></s:type>
+    <s:vendor>Whites</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/butterfly.jpg?v=1528522986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whites<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Whites</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1307653111902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

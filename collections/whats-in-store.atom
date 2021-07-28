@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://esperanza-designs.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://esperanza-designs.myshopify.com/collections/whats-in-store.atom"/>
+  <title>Esperanza Designs</title>
+  <updated>2021-04-07T10:43:17-04:00</updated>
+  <author>
+    <name>Esperanza Designs</name>
+  </author>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6551642701918</id>
+    <published>2021-04-07T10:43:17-04:00</published>
+    <updated>2021-04-07T10:43:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/rachel-allan-7537-size-12-sale-150-reg-298"/>
+    <title>Rachel Allan 7537 Size 12 SALE $99 (reg. $298)</title>
+    <s:type></s:type>
+    <s:vendor>Rachel Allan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/RA7537_99.png?v=1625681038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rachel Allan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6551642701918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4822354788446</id>
+    <published>2021-02-02T15:30:02-05:00</published>
+    <updated>2021-02-02T15:30:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/copy-of-rachel-allan-short-4639-sz-4-sale-169-reg-378"/>
+    <title>Rachel Allan Short 4639 Sz 4 SALE $75 (reg. $378)</title>
+    <s:type></s:type>
+    <s:vendor>Rachel Allan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/RA4596_75.png?v=1625681454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rachel Allan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4822354788446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4821948235870</id>
+    <published>2021-02-01T17:10:52-05:00</published>
+    <updated>2021-02-01T17:10:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-59992-size-4-sale-495-reg-550"/>
+    <title>Jovani 59992 Size 4 - SALE $199 (reg. $550)</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/Jovaniaquainterviewtext_199.png?v=1625680765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4821948235870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4809789538398</id>
+    <published>2020-12-31T01:59:30-05:00</published>
+    <updated>2020-12-31T01:59:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/touchups-silver-shoe-ladies-size-7-sale-39-reg-55"/>
+    <title>Touchups Silver Shoe Adult Size 7 - SALE $29 (reg. $55)</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/jackie-4272-1.jpg?v=1609397984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4809789538398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4809765257310</id>
+    <published>2020-12-30T23:30:24-05:00</published>
+    <updated>2020-12-30T23:30:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/mac-duggal-25957-size-4-sale-269-reg-538-pretty-in-pink"/>
+    <title>Mac Duggal 25957 Size 4 - SALE $175 (reg. $538) Pretty in Pink - Shimmer Fabric Shows Many Tones of Pink, Lilac &amp; Magenta - Jeweled High Neck</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/25957gridlogo.png?v=1618423633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4809765257310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4809764143198</id>
+    <published>2020-12-30T23:13:26-05:00</published>
+    <updated>2020-12-30T23:13:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/boutique-quality-2-piece-pant-suit-small-szs-2-4-medium-szs-6-8-sale-49-reg-95"/>
+    <title>Boutique Quality 2-Piece Pant Suit Szs 2-4 - SALE $39 (reg. $95)</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/LeafSuitTextSmall.png?v=1619806198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4809764143198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4809758212190</id>
+    <published>2020-12-30T22:12:36-05:00</published>
+    <updated>2020-12-30T22:12:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/helens-heart-gold-bling-high-top-hidden-wedge-sneakers-size-9-sale-69-reg-119"/>
+    <title>Helen&apos;s Heart Gold Bling High Top Hidden Wedge Sneakers Size 9 - SALE $39 (reg. $119)</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/BlingSneaker_39.png?v=1625771431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4809758212190</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4809040232542</id>
+    <published>2020-12-28T01:38:53-05:00</published>
+    <updated>2020-12-28T01:38:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jvn-1766-size-4-sale-269-reg-483"/>
+    <title>JVN 1766 Size 4 - SALE $99 (reg. $483)</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/119136180_10225331752987547_5728314586446974150_o.jpg?v=1609056573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4809040232542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4809040330846</id>
+    <published>2020-12-28T01:37:33-05:00</published>
+    <updated>2020-12-28T01:37:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-1227-blush-sz-2-light-blue-sze-4-sale-349-reg-570"/>
+    <title>Jovani 1227 Blush Sz 2 &amp; Light Blue Sze 4 - SALE $99 (reg. $570)</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/Jovani1227with_99.png?v=1625680891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4809040330846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4466934120542</id>
+    <published>2020-03-18T03:11:36-04:00</published>
+    <updated>2020-03-18T03:11:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-00199-pink-sizes-0-2-460"/>
+    <title>Jovani 00199 Pink Size 0 - SALE $99 (reg. $460)</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/Jovani00199_99.png?v=1625680834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4466934120542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/4411700609118</id>
+    <published>2020-01-16T20:40:12-05:00</published>
+    <updated>2020-01-16T20:40:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/tarik-ediz-50704-red-rose-sze-4"/>
+    <title>Tarik Ediz 50704 - SALE $199 (reg. $658) - Hips Fit Like a Small Size 2 (dress is size 4 so bust is larger)</title>
+    <s:type></s:type>
+    <s:vendor>What&apos;s In Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/TarikRedRose_199.png?v=1625689820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>What&#39;s In Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>What&apos;s In Store</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/4411700609118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

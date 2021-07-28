@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://esperanza-designs.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://esperanza-designs.myshopify.com/collections/all.atom"/>
+  <title>Esperanza Designs</title>
+  <updated>2021-07-27T07:00:02-04:00</updated>
+  <author>
+    <name>Esperanza Designs</name>
+  </author>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1491931332702</id>
+    <published>2021-07-27T07:00:02-04:00</published>
+    <updated>2021-07-27T07:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/lbd"/>
+    <title>Rachel Allan Short LBD L1173 Sz 4 SALE $149 (reg. $238)</title>
+    <s:type></s:type>
+    <s:vendor>Rachel Allan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/L1173_907.jpg?v=1541144778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rachel Allan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rachel Allan</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1491931332702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1453515505758</id>
+    <published>2021-07-27T04:46:37-04:00</published>
+    <updated>2021-07-27T04:46:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/mac-duggal-62412-szs-0-8-199"/>
+    <title>Mac Duggal 62412 Szs 0-8 SALE $149 (reg. $298)</title>
+    <s:type></s:type>
+    <s:vendor>Mac Duggal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/62412L-Emerald-PC.jpg?v=1536437044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mac Duggal<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">On Clearance for $189 (reg. $298)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mac Duggal</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1453515505758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/1570286207070</id>
+    <published>2021-07-26T18:56:45-04:00</published>
+    <updated>2021-07-26T18:56:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/johnathan-kayne-9087"/>
+    <title>Johnathan Kayne 9043 Szs 0-14 (except no 12) SALE $179 (reg. $360)</title>
+    <s:type></s:type>
+    <s:vendor>Johnathan Kayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/9043_Navy.jpg?v=1542347389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnathan Kayne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Johnathan Kayne</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/1570286207070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6584092164190</id>
+    <published>2021-07-04T13:16:06-04:00</published>
+    <updated>2021-07-04T13:16:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/mac-duggal-48896-szs-2-10-12-14-16-sale-179-reg-358"/>
+    <title>Mac Duggal 48896 Szs 2, 10, 12, 14 &amp; 16 SALE $179 (reg. $358)</title>
+    <s:type></s:type>
+    <s:vendor>Mac Duggal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/Mac48896front.png?v=1625418992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mac Duggal<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mac Duggal</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6584092164190</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6574015512670</id>
+    <published>2021-06-06T23:58:59-04:00</published>
+    <updated>2021-06-06T23:58:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-07218-1-100-periwinkle-ivory-black"/>
+    <title>Jovani 07218 $1,100 Periwinkle, Ivory &amp; Black</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/07218-LIGHT-BLUE-18-560x902_1024x1024_92f4dab3-d199-4dc0-9471-392ca92035ae.jpg?v=1623038383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6574015512670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6574014988382</id>
+    <published>2021-06-06T23:49:46-04:00</published>
+    <updated>2021-06-06T23:49:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-06446-590-red-off-white-light-blue-blush"/>
+    <title>Jovani 06446 $590 Red, Off-White, Light Blue &amp; Blush</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/06446-Red-2-min.jpg?v=1623037830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6574014988382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6574014562398</id>
+    <published>2021-06-06T23:40:30-04:00</published>
+    <updated>2021-06-06T23:40:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-06566-598-black-red-light-blue"/>
+    <title>Jovani 06566 $598 Black, Red &amp; Light Blue</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/06566-Black-1-560x902.jpg?v=1623037309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6574014562398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6574014005342</id>
+    <published>2021-06-06T23:33:55-04:00</published>
+    <updated>2021-06-06T23:33:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-06757-500"/>
+    <title>Jovani 06757 $500</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/06757-GoldPrint-15_ppfromJovanisite.jpg?v=1623037002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6574014005342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572865978462</id>
+    <published>2021-06-03T06:38:06-04:00</published>
+    <updated>2021-06-03T06:38:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-60010-950-nude-white-or-nude-black"/>
+    <title>Jovani 60010 $950 Nude/White or Nude/Black</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/60010-73-560x902.jpg?v=1622716756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572865978462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572865192030</id>
+    <published>2021-06-03T06:33:12-04:00</published>
+    <updated>2021-06-03T06:33:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-07227-350-black-or-ivory"/>
+    <title>Jovani 07227 $750 Black or Ivory</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/07227-BLACK-4-601x901.jpg?v=1622716415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572865192030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572864274526</id>
+    <published>2021-06-03T06:28:59-04:00</published>
+    <updated>2021-06-03T06:28:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-06876-790-off-white-fuchsia-red-yellow-black"/>
+    <title>Jovani 06876 $790 Off-White, Fuchsia, Red, Yellow, Black</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/06876-Offwhite-17.jpg?v=1622716155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572864274526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572862603358</id>
+    <published>2021-06-03T06:21:19-04:00</published>
+    <updated>2021-06-03T06:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-03840-750"/>
+    <title>Jovani 03840 $750</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/03840-1-560x902.jpg?v=1622715697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572862603358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572861390942</id>
+    <published>2021-06-03T06:15:38-04:00</published>
+    <updated>2021-06-03T06:15:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-m02942-680"/>
+    <title>Jovani M02942 $680</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/M02942-Multi-2.jpg?v=1622715358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572861390942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572859621470</id>
+    <published>2021-06-03T06:06:42-04:00</published>
+    <updated>2021-06-03T06:06:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-07239-790"/>
+    <title>Jovani 07239 $790</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/0723-Black-6-560x902.jpg?v=1622714885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572859621470</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572827738206</id>
+    <published>2021-06-03T03:14:37-04:00</published>
+    <updated>2021-06-03T03:14:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-0690806906-508"/>
+    <title>Jovani 0690806906 $508</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/06908large.jpg?v=1622704490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572827738206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572823576670</id>
+    <published>2021-06-03T03:07:43-04:00</published>
+    <updated>2021-06-03T03:07:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-06479-900"/>
+    <title>Jovani 06479 $900</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/06479-Turquoise-30-560x902.jpg?v=1622704073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572823576670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572821282910</id>
+    <published>2021-06-03T03:04:10-04:00</published>
+    <updated>2021-06-03T03:04:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-07209-791"/>
+    <title>Jovani 07209 $790</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/07209-Citrus-40-560x902.jpg?v=1622703862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572821282910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572817612894</id>
+    <published>2021-06-03T02:50:24-04:00</published>
+    <updated>2021-06-03T02:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-02637-750-comes-in-turquoise-emerald-red-blue-black-ivory"/>
+    <title>Jovani 02637 $750 Comes in Turquoise, Emerald, Red, Blue, Black, Ivory</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/02637-BLACK-1-601x901.jpg?v=1622703034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572817612894</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572817416286</id>
+    <published>2021-06-03T02:47:01-04:00</published>
+    <updated>2021-06-03T02:47:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-07205-791"/>
+    <title>Jovani 07205 $790</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/Jovani-07205-1-500x750h.jpg?v=1622702833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572817416286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6572817317982</id>
+    <published>2021-06-03T02:44:05-04:00</published>
+    <updated>2021-06-03T02:44:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/jovani-07205-790"/>
+    <title>Jovani 07205 $790</title>
+    <s:type></s:type>
+    <s:vendor>Jovani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/Jovani-07205-P-500x750h.jpg?v=1622702707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jovani Long</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6572817317982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6570874896478</id>
+    <published>2021-05-27T03:23:10-04:00</published>
+    <updated>2021-05-27T03:23:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/rachel-allan-perfect-angels-10066-338"/>
+    <title>Rachel Allan Perfect Angels 10066 $338</title>
+    <s:type></s:type>
+    <s:vendor>Johnathan Kayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/10066-031.jpg?v=1622100205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnathan Kayne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rachel Allan</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6570874896478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6570874699870</id>
+    <published>2021-05-27T03:21:32-04:00</published>
+    <updated>2021-05-27T03:21:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/rachel-allan-perfect-angels-10065-399"/>
+    <title>Rachel Allan Perfect Angels 10065 $398</title>
+    <s:type></s:type>
+    <s:vendor>Johnathan Kayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/10065-029.jpg?v=1622100112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnathan Kayne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rachel Allan</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6570874699870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6570874634334</id>
+    <published>2021-05-27T03:20:30-04:00</published>
+    <updated>2021-05-27T03:20:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/rachel-allan-perfect-angels-10065-398"/>
+    <title>Rachel Allan Perfect Angels 10065 $398</title>
+    <s:type></s:type>
+    <s:vendor>Johnathan Kayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/10065-027.jpg?v=1622100066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnathan Kayne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rachel Allan</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6570874634334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6570874536030</id>
+    <published>2021-05-27T03:19:06-04:00</published>
+    <updated>2021-05-27T03:19:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/rachel-allan-perfect-angels-10064-359"/>
+    <title>Rachel Allan Perfect Angels 10064 $358</title>
+    <s:type></s:type>
+    <s:vendor>Johnathan Kayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/10064-024.jpg?v=1622099958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnathan Kayne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rachel Allan</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6570874536030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://esperanza-designs.myshopify.com/products/6570874503262</id>
+    <published>2021-05-27T03:18:32-04:00</published>
+    <updated>2021-05-27T03:18:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://esperanza-designs.myshopify.com/products/rachel-allan-perfect-angels-10064-358"/>
+    <title>Rachel Allan Perfect Angels 10064 $358</title>
+    <s:type></s:type>
+    <s:vendor>Johnathan Kayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1072/2720/products/10064-023.jpg?v=1622099928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnathan Kayne<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rachel Allan</s:tag>
+    <s:variant>
+      <id>https://esperanza-designs.myshopify.com/products/6570874503262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
