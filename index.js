@@ -1,5 +1,9 @@
 const express = require('express')
 const app = express()
-const port = 3000
+const port = 8080
 app.use(express.static('public'))
-app.listen(port, () => { console.log('Example app listening at http://localhost:') })
+app.listen(port)
+
+app.get('/', function(req, res) {
+    res.render('public/index.html')
+});
